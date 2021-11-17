@@ -1,4 +1,8 @@
 # Scholar_Scraper
+
+Please find the ss_workflow.pdf file for detailed setup instructions with screenshots. 
+
+
 ## Introduction
 
 
