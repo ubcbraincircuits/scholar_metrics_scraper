@@ -31,7 +31,7 @@ This project currently works with scholarly 1.4.5
     - The project should now be cloned in your directory. 
     - Alternatively, you can download the project as a ZIP file from https://github.com/ubcbraincircuits/ScholarScraper (click Code, then Download ZIP)
 3. [Install scholarly](https://pypi.org/project/scholarly/)
-    - In the terminal (from above) type "pip install scholarly" and press enter
+    - In the terminal (from above) type "pip install scholarly" or "pip install --user scholarly" and press enter
 4. Obtain a CSV file with the list of author names in a single column with no column header. Ideally, all author names should match their names in Google Scholar. Upload this file to Syzygy or move it to the project folder on your computer. This file should be in the same directory as ScholarScraper.ipynb. 
 
 ### ScholarScraper
