@@ -1,4 +1,4 @@
-# Scholar_Scraper
+# ScholarScraper
 
 Please see the ss_workflow.pdf file for detailed setup instructions with screenshots. 
 
