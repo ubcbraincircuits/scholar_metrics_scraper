@@ -26,7 +26,7 @@ This project currently works with scholarly 1.4.5
 
 1. Set-up Jupyter. If your institution has access, you can use [Syzygy](https://syzygy.ca/) to run in the Cloud, or install on your computer following [these instructions](https://jupyter.org/install).
 2. Clone the project.
-    - Open Terminal (in Syzygy, click the "+" button to open a new launcher and click "Terminal"
+    - Open Terminal (in Syzygy, click the "+" or "New" button to open a new launcher and click "Terminal"
     - Type  "git clone https://github.com/ubcbraincircuits/ScholarScraper" and press enter
     - The project should now be cloned in your directory. 
     - Alternatively, you can download the project as a ZIP file from https://github.com/ubcbraincircuits/ScholarScraper (click Code, then Download ZIP)
