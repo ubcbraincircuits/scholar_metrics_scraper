@@ -25,9 +25,9 @@ This project currently works with scholarly 1.4.5
 1. Set-up Jupyter. If your institution has access, you can use [Syzygy](https://syzygy.ca/) to run in the Cloud, or install on your computer following [these instructions](https://jupyter.org/install).
 2. Clone the project.
     - Open Terminal (in Syzygy, click the "+" or "New" button to open a new launcher and click "Terminal"
-    - Type  "git clone https://github.com/ubcbraincircuits/ScholarScraper" and press enter
+    - Type  "git clone https://github.com/ubcbraincircuits/scholar_metrics_scraper" and press enter
     - The project should now be cloned in your directory. 
-    - Alternatively, you can download the project as a ZIP file from https://github.com/ubcbraincircuits/ScholarScraper (click Code, then Download ZIP)
+    - Alternatively, you can download the project as a ZIP file from https://github.com/ubcbraincircuits/scholar_metrics_scraper (click Code, then Download ZIP)
 3. [Install scholarly](https://pypi.org/project/scholarly/)
     - In the terminal (from above) type "pip install scholarly" or "pip install --user scholarly" and press enter
 4. Obtain a CSV file with the list of author names in a single column with no column header. Ideally, all author names should match their names in Google Scholar. Upload this file to Syzygy or move it to the project folder on your computer. This file should be in the same directory as ScholarScraper.ipynb. 
