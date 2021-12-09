@@ -1,6 +1,4 @@
-# ScholarScraper
-
-Please see the ss_workflow.pdf file for detailed setup instructions with screenshots. 
+# Scholar Metrics Scraper (SMS)
 
 
 ## Introduction
@@ -16,9 +14,9 @@ ScholarCollabs.ipynb - this is an R notebook that takes the author data CSV outp
 
 GroupedCollabs.ipynb - this is an R notebook that performs similarly to ScholarCollabs, but also groups the authors in subgroups (e.g. faculty, research area, etc). It takes an additional CSV with the subgroups as input.
 
-DBC Investigators.csv - this is an example author list CSV. 
+authorlist.csv - This is an example author list CSV. It is used as input in ScholarScraper.ipynb.
 
-DBC-Investigator-Faculty-Groups.csv - this is an example subgroups CSV. 
+dbc_faculty_groups - this is an example groupingss CSV. It is used as input in the GroupedCollabs.ipynb. 
 
 This project currently works with scholarly 1.4.5
 
