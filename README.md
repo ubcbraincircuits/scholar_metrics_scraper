@@ -32,21 +32,21 @@ This project currently works with scholarly 1.4.5
     - In the terminal (from above) type "pip install scholarly" or "pip install --user scholarly" and press enter
 4. Obtain a CSV file with the list of author names in a single column with no column header. Ideally, all author names should match their names in Google Scholar. Upload this file to Syzygy or move it to the project folder on your computer. This file should be in the same directory as ScholarScraper.ipynb. 
 
-### ScholarScraper
+### ScholarScraper notebook
 5. Open ScholarScraper.ipynb. Modify the names of the input/output files below (in step 1). The input file name must match the CSV file name. 
 6. Modify the "affiliations" variable as a list of institution names which the researchers are affiliated with. Include both abbreviated and long form.  
 7. Run all cells. 
 8. Open the ouput CSV file in the main project directory. Check the last column of this file for warnings. If needed, modify the author names in the input CSV file if the wrong author profile was scraped, or no profile was found, and re-run.
 
-### ScholarCollabs
-9. Modify the ss_output_file and the author_name_file strings to match the names of your files.
+### ScholarCollabs notebook
+9. Modify the ss_output_file to match the name of your output data csv file.
 10. Modify the title of the diagram.
-11. Modify "links" depending on whether you want a weighted or non-weighted diagram.
+11. Set "weighted" to TRUE or FALSE depending on whether you want a weighted or non-weighted diagram.
 12. Modify the name of the output PDF file.
 13. Run all cells, and find the diagram outputted to the main directory as a PDF. 
 
 
-### GroupedCollabs
+### GroupedCollabs notebook
 14. Create a CSV file for the groupings. This should contain the author names in the first column, the group names as column names, and the author names under their respective groups. See DBC-Investigator-Faculty-Groups.csv for an example. Upload this file to the main project directory. Modify the group_file string to match this file name.
 15. Follow the same steps as above (for ScholarCollabs). 
 
