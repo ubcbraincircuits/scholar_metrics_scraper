@@ -1,6 +1,5 @@
 # Scholar Metrics Scraper (SMS)
 
-<img src="https://user-images.githubusercontent.com/79030764/146286572-5674bbe2-68fa-4fd9-8bfd-e9b81f6e5a4d.png" width="500" height="500">
 
 
 ## Introduction
@@ -23,6 +22,9 @@ dbc_faculty_groups - this is an example groupingss CSV. It is used as input in t
 This project currently works with scholarly 1.4.5
 
 ## Installation and Setup
+
+<img src="https://user-images.githubusercontent.com/79030764/146286572-5674bbe2-68fa-4fd9-8bfd-e9b81f6e5a4d.png" width="500" height="500">
+
 
 1. Set-up Jupyter. If your institution has access, you can use [Syzygy](https://syzygy.ca/) to run in the Cloud, or install on your computer following [these instructions](https://jupyter.org/install).
 2. Clone the project.
