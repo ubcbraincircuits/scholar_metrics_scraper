@@ -1,5 +1,7 @@
 # Scholar Metrics Scraper (SMS)
 
+<img src="https://user-images.githubusercontent.com/79030764/146286572-5674bbe2-68fa-4fd9-8bfd-e9b81f6e5a4d.png" width="500" height="500">
+
 
 ## Introduction
 
