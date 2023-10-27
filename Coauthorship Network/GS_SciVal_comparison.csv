@@ -1,47 +1,47 @@
-Author,SciVal Degrees,Google Scholar Degrees,SciVal Betweenness Centrality,Google Scholar Betweenness Centrality
-0,Tim H. Murphy,9.0,11.0,0.7555555555555555,0.7494949494949495
-1,Anthony Phillips,9.0,9.0,0.1414141414141414,0.5292929292929293
-2,Yu Tian Wang,9.0,7.0,0.10505050505050505,0.498989898989899
-3,A Jon Stoessl OR jon Stoessl,7.0,8.0,0.35252525252525246,0.4404040404040404
-4,Martin J. McKeown,6.0,8.0,0.2404040404040404,0.397979797979798
-5,Z. Jane Wang,9.0,5.0,0.1111111111111111,0.3191919191919192
-6,Lynn A Raymond,5.0,5.0,0.5848484848484848,0.23434343434343435
-7,Jeffrey LeDue,7.0,8.0,0.3292929292929293,0.22626262626262628
-8,Wolfram Tetzlaff,4.0,5.0,0.15353535353535352,0.21212121212121213
-9,Fidel Vila-Rodriguez,5.0,6.0,0.1303030303030303,0.13535353535353536
-10,Brian MacVicar,8.0,11.0,0.2787878787878788,0.10707070707070707
-11,Ian Mackenzie,6.0,7.0,0.4131313131313132,0.09090909090909091
-12,Vesna Sossi,8.0,10.0,0.26666666666666666,0.07676767676767676
-13,Helge Rhodin,4.0,4.0,0.07878787878787878,0.07272727272727272
-14,Purang Abolmaesumi,4.0,1.0,0.0,0.07272727272727272
-15,Shernaz Bamji,9.0,8.0,0.15858585858585855,0.06868686868686869
-16,Silke Appel-Cresswell,7.0,9.0,0.09090909090909091,0.04242424242424243
-17,Lara Boyd,6.0,6.0,0.052525252525252523,0.026262626262626262
-18,Liisa Galea,5.0,3.0,0.0,0.006060606060606061
-19,Sophia Frangou,2.0,6.0,0.24848484848484848,0.00404040404040404
-20,Kurt Haas,3.0,3.0,0.1191919191919192,0.00404040404040404
-21,Todd S. Woodward,4.0,5.0,0.007070707070707071,0.0
-22,Andy Y. Shih,1.0,1.0,0.0,0.0
-23,Manu S Madhav,0.0,0.0,0.0,0.0
-24,Eric Shea-Brown,1.0,2.0,0.07878787878787878,0.0
-25,Adrienne Fairhall,1.0,1.0,0.0,0.0
-26,Craig E. Brown,2.0,2.0,0.0,0.0
-27,Leigh Anne Swayne,2.0,2.0,0.0,0.0
-28,Ilker Hacihaliloglu,1.0,1.0,0.0,0.0
-29,Brian D. Fisher,3.0,1.0,0.0,0.0
-30,Anthony Randal McIntosh,0.0,1.0,0.0,0.0
-31,Emily Sylwestrak,0.0,0.0,0.0,0.0
-32,Catharine A. Winstanley,1.0,7.0,0.0,0.0
-33,Jason S. Snyder,1.0,1.0,0.0,0.0
-34,Peyman Servati,2.0,2.0,0.0,0.0
-35,Leonid Sigal,1.0,1.0,0.0,0.0
-36,Michael Gordon,0.0,0.0,0.0,0.0
-37,Annie Vogel Ciernia,0.0,1.0,0.0,0.0
-38,A. Jane Roskams,1.0,1.0,0.0,0.0
-39,Fabio MV Rossi,1.0,2.0,0.0,0.0
-40,Mark S. Cembrowski,0.0,3.0,0.0,0.0
-41,Paul Pavlidis,4.0,6.0,0.059595959595959605,0.0
-42,Peter Cripton,1.0,5.0,0.010101010101010102,0.0
-43,Snutch,6.0,9.0,0.0,0.0
-44,Jeremy K Seamans,3.0,4.0,0.0,0.0
-45,Rankin Catharine H,4.0,6.0,0.04040404040404041,0.0
+,Author,SciVal Coauthors,Google Scholar Coauthors,SciVal Degrees,Google Scholar Degrees,SciVal Betweenness Centrality,Google Scholar Betweenness Centrality,SciVal Document Count,Google Scholar Document Count
+0,Tim H. Murphy,"{'Lynn A. Raymond': 17, 'Jeffrey M. LeDue': 25, 'Helge Rhodin': 2, 'Brian A. MacVicar': 2, 'YuTian Wang': 4, 'Wolfram G. Tetzlaff': 2, 'Craig E. Brown': 6, 'Andy Y. Shih': 9, 'Terrance P. Snutch': 1}","{'Andy Y. Shih': 9, 'Lynn A Raymond': 18, 'Craig E. Brown': 6, 'Jeffrey LeDue': 40, 'Snutch': 1, 'Yu Tian Wang': 4, 'Brian MacVicar': 3, 'Wolfram Tetzlaff': 2, 'Helge Rhodin': 2, 'Peter Cripton': 1, 'Mark S. Cembrowski': 1}",9.0,11.0,0.7555555555555555,0.7494949494949495,185,238
+1,Anthony Phillips,"{'Brian A. MacVicar': 1, 'Shernaz X. Bamji': 1, 'A. Jon Stoessl': 2, 'Vesna Sossi': 2, 'Terrance P. Snutch': 3, 'Jeremy Keith Seamans': 15, 'YuTian Wang': 14, 'Z. Jane Wang': 1, 'Todd Stephen Woodward': 1}","{'Brian MacVicar': 1, 'Shernaz Bamji': 1, 'A Jon Stoessl OR jon Stoessl': 2, 'Vesna Sossi': 2, 'Jeremy K Seamans': 15, 'Yu Tian Wang': 11, 'Todd S. Woodward': 1, 'Catharine A. Winstanley': 1, 'Snutch': 3}",9.0,9.0,0.1414141414141414,0.5292929292929293,307,428
+2,Yu Tian Wang,"{'Timothy H. Murphy': 4, 'Jeffrey M. LeDue': 3, 'Brian A. MacVicar': 2, 'Shernaz X. Bamji': 1, 'Anthony G. Phillips': 14, 'Jeremy Keith Seamans': 1, 'Lynn A. Raymond': 2, 'Ian Mackenzie': 1, 'Catharine Rankin': 1}","{'Tim H. Murphy': 4, 'Jeffrey LeDue': 2, 'Brian MacVicar': 1, 'Anthony Phillips': 11, 'Jeremy K Seamans': 1, 'Lynn A Raymond': 3, 'Rankin Catharine H': 1}",9.0,7.0,0.10505050505050505,0.498989898989899,192,200
+3,A Jon Stoessl OR jon Stoessl,"{'Lara A. Boyd': 1, 'Martin McKeown': 16, 'Silke Appel-Cresswell': 14, 'Vesna Sossi': 73, 'Ian Mackenzie': 2, 'Anthony G. Phillips': 2, 'Terrance P. Snutch': 1}","{'Lara Boyd': 2, 'Martin J. McKeown': 29, 'Silke Appel-Cresswell': 25, 'Vesna Sossi': 134, 'Catharine A. Winstanley': 3, 'Anthony Phillips': 2, 'Ian Mackenzie': 6, 'Snutch': 1}",7.0,8.0,0.35252525252525246,0.4404040404040404,305,449
+4,Martin J. McKeown,"{'Lara A. Boyd': 2, 'A. Jon Stoessl': 16, 'Silke Appel-Cresswell': 14, 'Vesna Sossi': 11, 'Z. Jane Wang': 82, 'Peyman Servati': 1}","{'Lara Boyd': 2, 'A Jon Stoessl OR jon Stoessl': 29, 'Silke Appel-Cresswell': 33, 'Vesna Sossi': 21, 'Z. Jane Wang': 72, 'Brian D. Fisher': 1, 'Peyman Servati': 1, 'Catharine A. Winstanley': 1}",6.0,8.0,0.2404040404040404,0.397979797979798,260,369
+5,Z. Jane Wang,"{'Fidel Vila-Rodriguez': 1, 'Martin McKeown': 82, 'Silke Appel-Cresswell': 2, 'Anthony G. Phillips': 1, 'Helge Rhodin': 2, 'Liisa A. M. Galea': 1, 'Brian Fisher': 1, 'Purang Abolmaesumi': 1, 'Peyman Servati': 1}","{'Fidel Vila-Rodriguez': 1, 'Martin J. McKeown': 72, 'Silke Appel-Cresswell': 4, 'Peyman Servati': 2, 'Helge Rhodin': 1}",9.0,5.0,0.1111111111111111,0.3191919191919192,336,449
+6,Lynn A Raymond,"{'Timothy H. Murphy': 17, 'Shernaz X. Bamji': 2, 'Ian Mackenzie': 2, 'YuTian Wang': 2, 'Jeffrey M. LeDue': 1}","{'Tim H. Murphy': 18, 'Shernaz Bamji': 2, 'Ian Mackenzie': 3, 'Yu Tian Wang': 3, 'Jeffrey LeDue': 2}",5.0,5.0,0.5848484848484848,0.23434343434343435,153,171
+7,Jeffrey LeDue,"{'Timothy H. Murphy': 25, 'Helge Rhodin': 1, 'Brian A. MacVicar': 10, 'YuTian Wang': 3, 'Terrance P. Snutch': 2, 'Paul Pavlidis': 1, 'Lynn A. Raymond': 1}","{'Tim H. Murphy': 40, 'Brian MacVicar': 13, 'Yu Tian Wang': 2, 'Helge Rhodin': 1, 'Peter Cripton': 1, 'Mark S. Cembrowski': 1, 'Snutch': 3, 'Lynn A Raymond': 2}",7.0,8.0,0.3292929292929293,0.22626262626262628,37,71
+8,Wolfram Tetzlaff,"{'Timothy H. Murphy': 2, 'P. A. Cripton': 6, 'Angela Jane I. Roskams': 9, 'Fabio Rossi': 1}","{'Tim H. Murphy': 2, 'Peter Cripton': 14, 'Fabio MV Rossi': 1, 'A. Jane Roskams': 9, 'Silke Appel-Cresswell': 1}",4.0,5.0,0.15353535353535352,0.21212121212121213,206,315
+9,Fidel Vila-Rodriguez,"{'Sophia Frangou': 5, 'Ian Mackenzie': 1, 'Jason S. Snyder': 2, 'Silke Appel-Cresswell': 1, 'Z. Jane Wang': 1}","{'Z. Jane Wang': 1, 'Sophia Frangou': 6, 'Jason S. Snyder': 2, 'Silke Appel-Cresswell': 1, 'Ian Mackenzie': 1, 'Todd S. Woodward': 1}",5.0,6.0,0.1303030303030303,0.13535353535353536,161,264
+10,Brian MacVicar,"{'Timothy H. Murphy': 2, 'Jeffrey M. LeDue': 10, 'Silke Appel-Cresswell': 1, 'Terrance P. Snutch': 5, 'Leigh Anne Swayne': 1, 'Shernaz X. Bamji': 1, 'YuTian Wang': 2, 'Anthony G. Phillips': 1}","{'Tim H. Murphy': 3, 'Jeffrey LeDue': 13, 'Annie Vogel Ciernia': 1, 'Snutch': 9, 'Anthony Phillips': 1, 'Shernaz Bamji': 1, 'Yu Tian Wang': 1, 'Silke Appel-Cresswell': 1, 'Leigh Anne Swayne': 1, 'Fabio MV Rossi': 1, 'Ian Mackenzie': 1}",8.0,11.0,0.2787878787878788,0.10707070707070707,167,218
+11,Ian Mackenzie,"{'Fidel Vila-Rodriguez': 1, 'Shernaz X. Bamji': 1, 'Lynn A. Raymond': 2, 'A. Jon Stoessl': 2, 'Vesna Sossi': 2, 'YuTian Wang': 1}","{'Brian MacVicar': 1, 'Snutch': 1, 'Fidel Vila-Rodriguez': 1, 'Shernaz Bamji': 1, 'Lynn A Raymond': 3, 'A Jon Stoessl OR jon Stoessl': 6, 'Vesna Sossi': 6}",6.0,7.0,0.4131313131313132,0.09090909090909091,282,498
+12,Vesna Sossi,"{'Lara A. Boyd': 1, 'Martin McKeown': 11, 'A. Jon Stoessl': 73, 'Silke Appel-Cresswell': 6, 'Ian Mackenzie': 2, 'Anthony G. Phillips': 2, 'Catharine A. Winstanley': 1, 'Todd Stephen Woodward': 1}","{'Lara Boyd': 2, 'Martin J. McKeown': 21, 'A Jon Stoessl OR jon Stoessl': 134, 'Silke Appel-Cresswell': 15, 'Paul Pavlidis': 1, 'Sophia Frangou': 1, 'Anthony Phillips': 2, 'Ian Mackenzie': 6, 'Catharine A. Winstanley': 3, 'Todd S. Woodward': 1}",8.0,10.0,0.26666666666666666,0.07676767676767676,334,500
+13,Helge Rhodin,"{'Timothy H. Murphy': 2, 'Jeffrey M. LeDue': 1, 'Leonid Sigal': 1, 'Z. Jane Wang': 2}","{'Tim H. Murphy': 2, 'Jeffrey LeDue': 1, 'Leonid Sigal': 1, 'Z. Jane Wang': 1}",4.0,4.0,0.07878787878787878,0.07272727272727272,52,83
+14,Purang Abolmaesumi,"{'Z. Jane Wang': 1, 'Liisa A. M. Galea': 1, 'Brian Fisher': 2, 'Ilker Hacihaliloglu': 11}",{'Ilker Hacihaliloglu': 11},4.0,1.0,0.0,0.07272727272727272,358,462
+15,Shernaz Bamji,"{'Brian A. MacVicar': 1, 'YuTian Wang': 1, 'Kurt Haas': 3, 'Lynn A. Raymond': 2, 'Paul Pavlidis': 1, 'Catharine Rankin': 1, 'Terrance P. Snutch': 1, 'Anthony G. Phillips': 1, 'Ian Mackenzie': 1}","{'Brian MacVicar': 1, 'Ian Mackenzie': 1, 'Lynn A Raymond': 2, 'Snutch': 1, 'Paul Pavlidis': 2, 'Kurt Haas': 6, 'Rankin Catharine H': 2, 'Anthony Phillips': 1}",9.0,8.0,0.15858585858585855,0.06868686868686869,44,61
+16,Silke Appel-Cresswell,"{'Brian A. MacVicar': 1, 'Fidel Vila-Rodriguez': 1, 'Lara A. Boyd': 1, 'Martin McKeown': 14, 'A. Jon Stoessl': 14, 'Vesna Sossi': 6, 'Z. Jane Wang': 2}","{'Brian MacVicar': 1, 'Fidel Vila-Rodriguez': 1, 'Lara Boyd': 1, 'Martin J. McKeown': 33, 'A Jon Stoessl OR jon Stoessl': 25, 'Vesna Sossi': 15, 'Z. Jane Wang': 4, 'Catharine A. Winstanley': 1, 'Wolfram Tetzlaff': 1}",7.0,9.0,0.09090909090909091,0.04242424242424243,46,98
+17,Lara Boyd,"{'Liisa A. M. Galea': 1, 'Martin McKeown': 2, 'A. Jon Stoessl': 1, 'Silke Appel-Cresswell': 1, 'Vesna Sossi': 1, 'Todd Stephen Woodward': 2}","{'Martin J. McKeown': 2, 'A Jon Stoessl OR jon Stoessl': 2, 'Silke Appel-Cresswell': 1, 'Vesna Sossi': 2, 'Todd S. Woodward': 3, 'Liisa Galea': 1}",6.0,6.0,0.052525252525252523,0.026262626262626262,217,360
+18,Liisa Galea,"{'Lara A. Boyd': 1, 'Z. Jane Wang': 1, 'Brian Fisher': 1, 'Purang Abolmaesumi': 1, 'Sophia Frangou': 1}","{'Lara Boyd': 1, 'Rankin Catharine H': 1, 'Sophia Frangou': 1}",5.0,3.0,0.0,0.006060606060606061,210,297
+19,Sophia Frangou,"{'Fidel Vila-Rodriguez': 5, 'Liisa A. M. Galea': 1}","{'Fidel Vila-Rodriguez': 6, 'Paul Pavlidis': 1, 'Vesna Sossi': 1, 'Liisa Galea': 1, 'Eric Shea-Brown': 1, 'Anthony Randal McIntosh': 3}",2.0,6.0,0.24848484848484848,0.00404040404040404,313,637
+20,Kurt Haas,"{'Shernaz X. Bamji': 3, 'Paul Pavlidis': 3, 'Catharine Rankin': 2}","{'Shernaz Bamji': 6, 'Paul Pavlidis': 6, 'Rankin Catharine H': 5}",3.0,3.0,0.1191919191919192,0.00404040404040404,55,74
+21,Todd S. Woodward,"{'Lara A. Boyd': 2, 'Anthony G. Phillips': 1, 'Jeremy Keith Seamans': 1, 'Vesna Sossi': 1}","{'Fidel Vila-Rodriguez': 1, 'Lara Boyd': 3, 'Anthony Phillips': 1, 'Jeremy K Seamans': 1, 'Vesna Sossi': 1}",4.0,5.0,0.007070707070707071,0.0,184,296
+22,Andy Y. Shih,{'Timothy H. Murphy': 9},{'Tim H. Murphy': 9},1.0,1.0,0.0,0.0,73,86
+23,Manu S Madhav,,,0.0,0.0,0.0,0.0,13,27
+24,Eric Shea-Brown,{'Adrienne L. Fairhall': 3},"{'Sophia Frangou': 1, 'Adrienne Fairhall': 3}",1.0,2.0,0.07878787878787878,0.0,82,197
+25,Adrienne Fairhall,{'Eric T. Shea-Brown': 3},{'Eric Shea-Brown': 3},1.0,1.0,0.0,0.0,69,119
+26,Craig E. Brown,"{'Timothy H. Murphy': 6, 'Leigh Anne Swayne': 1}","{'Tim H. Murphy': 6, 'Leigh Anne Swayne': 1}",2.0,2.0,0.0,0.0,38,39
+27,Leigh Anne Swayne,"{'Brian A. MacVicar': 1, 'Craig E. Brown': 1}","{'Brian MacVicar': 1, 'Craig E. Brown': 1}",2.0,2.0,0.0,0.0,53,65
+28,Ilker Hacihaliloglu,{'Purang Abolmaesumi': 11},{'Purang Abolmaesumi': 11},1.0,1.0,0.0,0.0,70,115
+29,Brian D. Fisher,"{'Z. Jane Wang': 1, 'Liisa A. M. Galea': 1, 'Purang Abolmaesumi': 2}",{'Martin J. McKeown': 1},3.0,1.0,0.0,0.0,96,187
+30,Anthony Randal McIntosh,,{'Sophia Frangou': 3},0.0,1.0,0.0,0.0,297,474
+31,Emily Sylwestrak,,,0.0,0.0,0.0,0.0,10,16
+32,Catharine A. Winstanley,{'Vesna Sossi': 1},"{'Martin J. McKeown': 1, 'A Jon Stoessl OR jon Stoessl': 3, 'Silke Appel-Cresswell': 1, 'Peter Cripton': 1, 'Anthony Phillips': 1, 'Vesna Sossi': 3, 'Jeremy K Seamans': 1}",1.0,7.0,0.0,0.0,74,184
+33,Jason S. Snyder,{'Fidel Vila-Rodriguez': 2},{'Fidel Vila-Rodriguez': 2},1.0,1.0,0.0,0.0,37,40
+34,Peyman Servati,"{'Martin McKeown': 1, 'Z. Jane Wang': 1}","{'Martin J. McKeown': 1, 'Z. Jane Wang': 2}",2.0,2.0,0.0,0.0,137,294
+35,Leonid Sigal,{'Helge Rhodin': 1},{'Helge Rhodin': 1},1.0,1.0,0.0,0.0,128,229
+36,Michael Gordon,,,0.0,0.0,0.0,0.0,29,34
+37,Annie Vogel Ciernia,,{'Brian MacVicar': 1},0.0,1.0,0.0,0.0,28,44
+38,A. Jane Roskams,{'Wolfram G. Tetzlaff': 9},{'Wolfram Tetzlaff': 9},1.0,1.0,0.0,0.0,60,68
+39,Fabio MV Rossi,{'Wolfram G. Tetzlaff': 1},"{'Brian MacVicar': 1, 'Wolfram Tetzlaff': 1}",1.0,2.0,0.0,0.0,174,140
+40,Mark S. Cembrowski,,"{'Tim H. Murphy': 1, 'Peter Cripton': 1, 'Jeffrey LeDue': 1}",0.0,3.0,0.0,0.0,24,35
+41,Paul Pavlidis,"{'Shernaz X. Bamji': 1, 'Kurt Haas': 3, 'Catharine Rankin': 3, 'Jeffrey M. LeDue': 1}","{'Shernaz Bamji': 2, 'Kurt Haas': 6, 'Rankin Catharine H': 6, 'Snutch': 1, 'Sophia Frangou': 1, 'Vesna Sossi': 1}",4.0,6.0,0.059595959595959605,0.0,158,245
+42,Peter Cripton,{'Wolfram G. Tetzlaff': 6},"{'Tim H. Murphy': 1, 'Mark S. Cembrowski': 1, 'Jeffrey LeDue': 1, 'Wolfram Tetzlaff': 14, 'Catharine A. Winstanley': 1}",1.0,5.0,0.010101010101010102,0.0,179,284
+43,Snutch,"{'Timothy H. Murphy': 1, 'Brian A. MacVicar': 5, 'Jeffrey M. LeDue': 2, 'Shernaz X. Bamji': 1, 'A. Jon Stoessl': 1, 'Anthony G. Phillips': 3}","{'Tim H. Murphy': 1, 'Brian MacVicar': 9, 'Jeffrey LeDue': 3, 'Ian Mackenzie': 1, 'Shernaz Bamji': 1, 'Paul Pavlidis': 1, 'A Jon Stoessl OR jon Stoessl': 1, 'Anthony Phillips': 3, 'Rankin Catharine H': 1}",6.0,9.0,0.0,0.0,208,462
+44,Jeremy K Seamans,"{'Anthony G. Phillips': 15, 'YuTian Wang': 1, 'Todd Stephen Woodward': 1}","{'Anthony Phillips': 15, 'Yu Tian Wang': 1, 'Catharine A. Winstanley': 1, 'Todd S. Woodward': 1}",3.0,4.0,0.0,0.0,70,107
+45,Rankin Catharine H,"{'Shernaz X. Bamji': 1, 'Paul Pavlidis': 3, 'Kurt Haas': 2, 'YuTian Wang': 1}","{'Shernaz Bamji': 2, 'Paul Pavlidis': 6, 'Kurt Haas': 5, 'Yu Tian Wang': 1, 'Snutch': 1, 'Liisa Galea': 1}",4.0,6.0,0.04040404040404041,0.0,111,209
