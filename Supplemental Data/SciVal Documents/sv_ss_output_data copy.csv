@@ -1,0 +1,47 @@
+Name,Author ID,Cited by,Document Count,Coauthors,Affiliation
+Timothy H. Murphy,7401632487,14731,185,"{'Lynn A. Raymond': 17, 'Jeffrey M. LeDue': 25, 'Helge Rhodin': 2, 'Brian A. MacVicar': 2, 'YuTian Wang': 4, 'Wolfram G. Tetzlaff': 2, 'Craig E. Brown': 6, 'Andy Y. Shih': 9, 'Terrance P. Snutch': 1}",Kinsmen Laboratory of Neurological Research
+Annie Vogel Ciernia,55491054000,1365,28,,Djavad Mowafaghian Centre for Brain Health
+Brian A. MacVicar,7006717711,15459,167,"{'Timothy H. Murphy': 2, 'Jeffrey M. LeDue': 10, 'Silke Appel-Cresswell': 1, 'Terrance P. Snutch': 5, 'Leigh Anne Swayne': 1, 'Shernaz X. Bamji': 1, 'YuTian Wang': 2, 'Anthony G. Phillips': 1}",Djavad Mowafaghian Centre for Brain Health
+Fidel Vila-Rodriguez,24279161600,3786,161,"{'Sophia Frangou': 5, 'Ian Mackenzie': 1, 'Jason S. Snyder': 2, 'Silke Appel-Cresswell': 1, 'Z. Jane Wang': 1}",The University of British Columbia
+Shernaz X. Bamji,7005627810,3569,44,"{'Brian A. MacVicar': 1, 'YuTian Wang': 1, 'Kurt Haas': 3, 'Lynn A. Raymond': 2, 'Paul Pavlidis': 1, 'Catharine Rankin': 1, 'Terrance P. Snutch': 1, 'Anthony G. Phillips': 1, 'Ian Mackenzie': 1}",Department of Cellular and Physiological Sciences
+Lara A. Boyd,7101895712,8953,217,"{'Liisa A. M. Galea': 1, 'Martin McKeown': 2, 'A. Jon Stoessl': 1, 'Silke Appel-Cresswell': 1, 'Vesna Sossi': 1, 'Todd Stephen Woodward': 2}",Department of Physical Therapy
+Paul Pavlidis,7004159655,11957,158,"{'Shernaz X. Bamji': 1, 'Kurt Haas': 3, 'Catharine Rankin': 3, 'Jeffrey M. LeDue': 1}",Michael Smith Laboratories
+Martin McKeown,7005375626,10923,260,"{'Lara A. Boyd': 2, 'A. Jon Stoessl': 16, 'Silke Appel-Cresswell': 14, 'Vesna Sossi': 11, 'Z. Jane Wang': 82, 'Peyman Servati': 1}",Djavad Mowafaghian Centre for Brain Health
+A. Jon Stoessl,7004896118,21848,305,"{'Lara A. Boyd': 1, 'Martin McKeown': 16, 'Silke Appel-Cresswell': 14, 'Vesna Sossi': 73, 'Ian Mackenzie': 2, 'Anthony G. Phillips': 2, 'Terrance P. Snutch': 1}",The University of British Columbia
+P. A. Cripton,6603629883,4683,179,{'Wolfram G. Tetzlaff': 6},School of Biomedical Engineering
+Jason S. Snyder,28167863900,4126,37,{'Fidel Vila-Rodriguez': 2},Department of Psychology
+Wolfram G. Tetzlaff,7006262846,16322,206,"{'Timothy H. Murphy': 2, 'P. A. Cripton': 6, 'Angela Jane I. Roskams': 9, 'Fabio Rossi': 1}",Department of Zoology
+Anthony G. Phillips,7401658611,22525,307,"{'Brian A. MacVicar': 1, 'Shernaz X. Bamji': 1, 'A. Jon Stoessl': 2, 'Vesna Sossi': 2, 'Terrance P. Snutch': 3, 'Jeremy Keith Seamans': 15, 'YuTian Wang': 14, 'Z. Jane Wang': 1, 'Todd Stephen Woodward': 1}","University of British Columbia, Faculty of Medicine"
+Catharine A. Winstanley,7005018303,7078,74,{'Vesna Sossi': 1},Department of Psychology
+YuTian Wang,8908521300,25281,192,"{'Timothy H. Murphy': 4, 'Jeffrey M. LeDue': 3, 'Brian A. MacVicar': 2, 'Shernaz X. Bamji': 1, 'Anthony G. Phillips': 14, 'Jeremy Keith Seamans': 1, 'Lynn A. Raymond': 2, 'Ian Mackenzie': 1, 'Catharine Rankin': 1}",School of Software
+Jeremy Keith Seamans,7003907622,10507,70,"{'Anthony G. Phillips': 15, 'YuTian Wang': 1, 'Todd Stephen Woodward': 1}",Djavad Mowafaghian Centre for Brain Health
+Terrance P. Snutch,35408131500,20097,208,"{'Timothy H. Murphy': 1, 'Brian A. MacVicar': 5, 'Jeffrey M. LeDue': 2, 'Shernaz X. Bamji': 1, 'A. Jon Stoessl': 1, 'Anthony G. Phillips': 3}",Michael Smith Laboratories
+Ian Mackenzie,16407421900,42374,282,"{'Fidel Vila-Rodriguez': 1, 'Shernaz X. Bamji': 1, 'Lynn A. Raymond': 2, 'A. Jon Stoessl': 2, 'Vesna Sossi': 2, 'YuTian Wang': 1}","University of British Columbia, Faculty of Medicine"
+Lynn A. Raymond,7102737545,17600,153,"{'Timothy H. Murphy': 17, 'Shernaz X. Bamji': 2, 'Ian Mackenzie': 2, 'YuTian Wang': 2, 'Jeffrey M. LeDue': 1}",Department of Psychiatry
+Kurt Haas,55554765000,2635,55,"{'Shernaz X. Bamji': 3, 'Paul Pavlidis': 3, 'Catharine Rankin': 2}",Djavad Mowafaghian Centre for Brain Health
+Mark S. Cembrowski,37036981000,1238,24,,Djavad Mowafaghian Centre for Brain Health
+Fabio Rossi,7401756510,13160,174,{'Wolfram G. Tetzlaff': 1},School of Biomedical Engineering
+Angela Jane I. Roskams,55889287500,4467,60,{'Wolfram G. Tetzlaff': 9},Life Sciences Centre and Center for Brain Health
+Catharine Rankin,7007032941,4487,111,"{'Shernaz X. Bamji': 1, 'Paul Pavlidis': 3, 'Kurt Haas': 2, 'YuTian Wang': 1}",Djavad Mowafaghian Centre for Brain Health
+Michael D. Gordon,7402800449,2854,29,,Department of Zoology and Life Sciences Institute
+Leonid Sigal,7103067039,6500,128,{'Helge Rhodin': 1},The University of British Columbia
+Z. Jane Wang,11241026700,8457,336,"{'Fidel Vila-Rodriguez': 1, 'Martin McKeown': 82, 'Silke Appel-Cresswell': 2, 'Anthony G. Phillips': 1, 'Helge Rhodin': 2, 'Liisa A. M. Galea': 1, 'Brian Fisher': 1, 'Purang Abolmaesumi': 1, 'Peyman Servati': 1}",Department of Electrical & Computer Engineering
+Peyman Servati,6701751588,3368,137,"{'Martin McKeown': 1, 'Z. Jane Wang': 1}",Department of Electrical & Computer Engineering
+Liisa A. M. Galea,7004079043,14971,210,"{'Lara A. Boyd': 1, 'Z. Jane Wang': 1, 'Brian Fisher': 1, 'Purang Abolmaesumi': 1, 'Sophia Frangou': 1}",Department of Psychiatry
+Sophia Frangou,7004549374,20281,313,"{'Fidel Vila-Rodriguez': 5, 'Liisa A. M. Galea': 1}",Mood Disorders Centre
+Silke Appel-Cresswell,36237882900,2909,46,"{'Brian A. MacVicar': 1, 'Fidel Vila-Rodriguez': 1, 'Lara A. Boyd': 1, 'Martin McKeown': 14, 'A. Jon Stoessl': 14, 'Vesna Sossi': 6, 'Z. Jane Wang': 2}",Djavad Mowafaghian Centre for Brain Health
+Helge Rhodin,55860139200,2297,52,"{'Timothy H. Murphy': 2, 'Jeffrey M. LeDue': 1, 'Leonid Sigal': 1, 'Z. Jane Wang': 2}",The University of British Columbia
+Manu S. Madhav,35146488900,239,13,,Biomedical Engineering
+Brian Fisher,56363838400,1488,96,"{'Z. Jane Wang': 1, 'Liisa A. M. Galea': 1, 'Purang Abolmaesumi': 2}",Simon Fraser University
+Leigh Anne Swayne,7004454250,1349,53,"{'Brian A. MacVicar': 1, 'Craig E. Brown': 1}",Division of Medical Sciences
+Craig E. Brown,7408311558,2024,38,"{'Timothy H. Murphy': 6, 'Leigh Anne Swayne': 1}",Department of Psychiatry
+Adrienne L. Fairhall,6602928622,3823,69,{'Eric T. Shea-Brown': 3},University of Washington
+Eric T. Shea-Brown,15065850600,4264,82,{'Adrienne L. Fairhall': 3},Department of Applied Mathematics
+Emily Lauren Sylwestrak,26634611400,1308,10,,Department of Biology
+Andy Y. Shih,9239638800,5640,73,{'Timothy H. Murphy': 9},Department of Pediatrics
+Todd Stephen Woodward,7102848867,8433,184,"{'Lara A. Boyd': 2, 'Anthony G. Phillips': 1, 'Jeremy Keith Seamans': 1, 'Vesna Sossi': 1}","University of British Columbia, Faculty of Medicine"
+Jeffrey M. LeDue,56371437500,1666,37,"{'Timothy H. Murphy': 25, 'Helge Rhodin': 1, 'Brian A. MacVicar': 10, 'YuTian Wang': 3, 'Terrance P. Snutch': 2, 'Paul Pavlidis': 1, 'Lynn A. Raymond': 1}",Djavad Mowafaghian Centre for Brain Health
+Ilker Hacihaliloglu,24467768400,1308,70,{'Purang Abolmaesumi': 11},Department of Medicine
+Anthony Randal McIntosh,35465675000,28468,297,,Institute for Neuroscience and Neurotechnology
+Purang Abolmaesumi,6602170125,6020,358,"{'Z. Jane Wang': 1, 'Liisa A. M. Galea': 1, 'Brian Fisher': 2, 'Ilker Hacihaliloglu': 11}",Department of Electrical & Computer Engineering
+Vesna Sossi,56276238300,13625,334,"{'Lara A. Boyd': 1, 'Martin McKeown': 11, 'A. Jon Stoessl': 73, 'Silke Appel-Cresswell': 6, 'Ian Mackenzie': 2, 'Anthony G. Phillips': 2, 'Catharine A. Winstanley': 1, 'Todd Stephen Woodward': 1}",Department of Physics and Astronomy
