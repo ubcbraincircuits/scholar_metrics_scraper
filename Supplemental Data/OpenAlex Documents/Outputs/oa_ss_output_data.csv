@@ -1,0 +1,47 @@
+Name|Author ID|Document Count|Coauthors
+Tim H. Murphy|A5072258662|236|{'Lynn Raymond': 14, 'Andy Shih': 8, 'Yu Tian Wang': 3, 'Jeffrey LeDue': 19, 'Craig E. Brown': 6, 'Brian MacVicar': 2, 'Wolfram Tetzlaff': 2, 'Helge Rhodin': 1, 'Ian Mackenzie': 1}
+Annie Ciernia|A5020772658|47|{'Paul Pavlidis': 1, 'Brian MacVicar': 1}
+Brian MacVicar|A5030192413|151|{'Tim H. Murphy': 2, 'Jeffrey LeDue': 9, 'Annie Ciernia': 1, 'Anthony Phillips': 1, 'Shernaz Bamji': 1, 'Yu Tian Wang': 2, 'Silke Cresswell': 1, 'Leigh Anne Swayne': 1}
+Fidel Vila-Rodriguez|A5048377473|176|{'Sophia Frangou': 2, 'Jason Snyder': 2, 'Silke Cresswell': 1}
+Shernaz Bamji|A5041209867|57|{'Brian MacVicar': 1, 'Yu Tian Wang': 3, 'Kurt Haas': 5, 'Ian Mackenzie': 1, 'Lynn Raymond': 3, 'Paul Pavlidis': 2, 'Catharine Rankin': 1, 'Anthony Phillips': 1}
+Lara Boyd|A5088911615|301|{'Martin McKeown': 1, 'A Jon Stoessl': 1, 'Silke Cresswell': 1, 'Vesna Sossi': 1, 'Todd Woodward': 2}
+Paul Pavlidis|A5012991069|278|{'Annie Ciernia': 1, 'Shernaz Bamji': 2, 'Kurt Haas': 5, 'Catharine Rankin': 4, 'Martin McKeown': 1, 'Ian Mackenzie': 1, 'Todd Woodward': 1}
+Martin McKeown|A5021255536|166|{'Lara Boyd': 1, 'A Jon Stoessl': 4, 'Silke Cresswell': 7, 'Vesna Sossi': 9, 'Paul Pavlidis': 1, 'Ian Mackenzie': 1, 'Todd Woodward': 1, 'Z. Jane Wang': 21}
+A Jon Stoessl|A5066908279|244|{'Lara Boyd': 1, 'Martin McKeown': 4, 'Silke Cresswell': 12, 'Vesna Sossi': 60, 'Anthony Phillips': 2, 'Ian Mackenzie': 2, 'Catharine Winstanley': 1, 'Terry Snutch': 1}
+Peter Cripton|A5016169891|174|{'Wolfram Tetzlaff': 6, 'Mark Cembrowski': 1, 'Jeffrey LeDue': 1}
+Jason Snyder|A5064689482|60|{'Fidel Vila-Rodriguez': 2}
+Wolfram Tetzlaff|A5057571775|246|{'Tim H. Murphy': 2, 'Peter Cripton': 6, 'Fabio Rossi': 1, 'Jane Roskams': 8, 'Silke Cresswell': 1, 'Yu Tian Wang': 1}
+Anthony Phillips|A5081137194|340|{'Brian MacVicar': 1, 'Shernaz Bamji': 1, 'A Jon Stoessl': 2, 'Vesna Sossi': 2, 'Jeremy Seamans': 15, 'Yu Tian Wang': 16, 'Catharine Winstanley': 1, 'Todd Woodward': 1}
+Catharine Winstanley|A5001597821|147|{'A Jon Stoessl': 1, 'Anthony Phillips': 1, 'Vesna Sossi': 2, 'Jeremy Seamans': 1, 'Lynn Raymond': 1, 'Craig E. Brown': 1}
+Yu Tian Wang|A5047476496|262|{'Tim H. Murphy': 3, 'Jeffrey LeDue': 3, 'Brian MacVicar': 2, 'Shernaz Bamji': 3, 'Wolfram Tetzlaff': 1, 'Anthony Phillips': 16, 'Jeremy Seamans': 1, 'Lynn Raymond': 2, 'Catharine Rankin': 1, 'Ian Mackenzie': 1}
+Jeremy Seamans|A5034121962|95|{'Anthony Phillips': 15, 'Yu Tian Wang': 1, 'Catharine Winstanley': 1, 'Todd Woodward': 1}
+Terry Snutch|A5075369209|67|{'A Jon Stoessl': 1}
+Ian Mackenzie|A5053377589|468|{'Tim H. Murphy': 1, 'Shernaz Bamji': 1, 'Lynn Raymond': 3, 'Paul Pavlidis': 1, 'Martin McKeown': 1, 'Todd Woodward': 1, 'A Jon Stoessl': 2, 'Vesna Sossi': 3, 'Yu Tian Wang': 1}
+Lynn Raymond|A5020418567|155|{'Tim H. Murphy': 14, 'Shernaz Bamji': 3, 'Ian Mackenzie': 3, 'Catharine Winstanley': 1, 'Craig E. Brown': 1, 'Yu Tian Wang': 2, 'Michael Gordon': 1, 'Ilker Hacihaliloglu': 1, 'Purang Abolmaesumi': 1}
+Kurt Haas|A5018243297|99|{'Shernaz Bamji': 5, 'Paul Pavlidis': 5, 'Catharine Rankin': 3}
+Mark Cembrowski|A5083549376|43|{'Peter Cripton': 1, 'Jeffrey LeDue': 1}
+Fabio Rossi|A5062503866|229|{'Wolfram Tetzlaff': 1}
+Jane Roskams|A5090758782|60|{'Wolfram Tetzlaff': 8}
+Catharine Rankin|A5005452252|153|{'Shernaz Bamji': 1, 'Paul Pavlidis': 4, 'Kurt Haas': 3, 'Yu Tian Wang': 1, 'Sophia Frangou': 1}
+Michael Gordon|A5069690249|645|{'Lynn Raymond': 1, 'Ilker Hacihaliloglu': 1, 'Purang Abolmaesumi': 1, 'Sophia Frangou': 1, 'Randy Mcintosh': 1}
+Leonid Sigal|A5053011888|259|{'Helge Rhodin': 2}
+Z. Jane Wang|A5051587486|250|{'Martin McKeown': 21, 'Helge Rhodin': 2, 'Peyman Servati': 1, 'Silke Cresswell': 2}
+Peyman Servati|A5063512042|164|{'Z. Jane Wang': 1}
+Liisa Galea|A5063120236|186|
+Sophia Frangou|A5015454510|336|{'Fidel Vila-Rodriguez': 2, 'Catharine Rankin': 1, 'Michael Gordon': 1, 'Randy Mcintosh': 1}
+Silke Cresswell|A5028885943|50|{'Brian MacVicar': 1, 'Fidel Vila-Rodriguez': 1, 'Lara Boyd': 1, 'Martin McKeown': 7, 'A Jon Stoessl': 12, 'Vesna Sossi': 6, 'Wolfram Tetzlaff': 1, 'Z. Jane Wang': 2}
+Helge Rhodin|A5058949470|138|{'Tim H. Murphy': 1, 'Leonid Sigal': 2, 'Z. Jane Wang': 2, 'Jeffrey LeDue': 1}
+Manu Madhav|A5088355772|28|
+Brian D. Fisher|A5052190967|145|{'Purang Abolmaesumi': 1}
+Leigh Anne Swayne|A5043544825|64|{'Brian MacVicar': 1, 'Craig E. Brown': 1}
+Craig E. Brown|A5031236885|55|{'Tim H. Murphy': 6, 'Catharine Winstanley': 1, 'Lynn Raymond': 1, 'Leigh Anne Swayne': 1}
+Adrienne Fairhall|A5077273776|113|{'Eric Shea-Brown': 6}
+Eric Shea-Brown|A5046602924|186|{'Adrienne Fairhall': 6}
+Emily Sylwestrak|A5082921737|13|
+Andy Shih|A5088648796|137|{'Tim H. Murphy': 8}
+Todd Woodward|A5057787952|198|{'Lara Boyd': 2, 'Paul Pavlidis': 1, 'Martin McKeown': 1, 'Ian Mackenzie': 1, 'Anthony Phillips': 1, 'Jeremy Seamans': 1}
+Jeffrey LeDue|A5063582649|64|{'Tim H. Murphy': 19, 'Yu Tian Wang': 3, 'Brian MacVicar': 9, 'Peter Cripton': 1, 'Mark Cembrowski': 1, 'Helge Rhodin': 1}
+Ilker Hacihaliloglu|A5015205742|114|{'Lynn Raymond': 1, 'Michael Gordon': 1, 'Purang Abolmaesumi': 14}
+Randy Mcintosh|A5050825978|216|{'Michael Gordon': 1, 'Sophia Frangou': 1}
+Purang Abolmaesumi|A5023095072|424|{'Lynn Raymond': 1, 'Michael Gordon': 1, 'Ilker Hacihaliloglu': 14, 'Brian D. Fisher': 1}
+Vesna Sossi|A5067560744|399|{'Lara Boyd': 1, 'Martin McKeown': 9, 'A Jon Stoessl': 60, 'Silke Cresswell': 6, 'Anthony Phillips': 2, 'Ian Mackenzie': 3, 'Catharine Winstanley': 2}
